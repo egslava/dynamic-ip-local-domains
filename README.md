@@ -1,9 +1,6 @@
 # dynamic-ip-local-domains
 An instruction: how to get 2 .local domains work with 1 dynamic IP server
 
-# dynamic-ip-local-domains
-An instruction: how to get 2 .local domains work with 1 dynamic IP server
-
 ## Given
 - 2 Wi-Fi networks
 - _Server_ machine on Ubuntu 16.04.3 LTS “xenial” with two web-services on 0.0.0.0:80
